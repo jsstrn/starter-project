@@ -2,9 +2,12 @@
   "name": "starter-project",
   "version": "1.0.0",
   "description": "A boilerplate starter project.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "standard"
+    "start": "forever server.js",
+    "build": "browserify -o ",
+    "test": "standard",
+    "dev-start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
