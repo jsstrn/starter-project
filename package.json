@@ -1,0 +1,24 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "A boilerplate starter project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsstrn/starter-project.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "starter",
+    "template"
+  ],
+  "author": "Jesstern Rays",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsstrn/starter-project/issues"
+  },
+  "homepage": "https://github.com/jsstrn/starter-project#readme"
+}
